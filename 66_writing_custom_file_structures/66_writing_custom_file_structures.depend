@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605260971 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\66_writing_custom_file_structures\main.cpp
+	<iostream>
+	<fstream>
+

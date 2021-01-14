@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1604552043 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\46_47_composition\birthday.cpp
+	"Birthday.h"
+	"People.h"
+	<iostream>
+
+1604548890 d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\46_47_composition\birthday.h
+
+1604549341 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\46_47_composition\people.cpp
+	"People.h"
+	"Birthday.h"
+	<iostream>
+
+1604548888 d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\46_47_composition\people.h
+	<string>
+	"Birthday.h"
+
+1604552045 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\46_47_composition\main.cpp
+	"Birthday.h"
+	"People.h"
+	<iostream>
+

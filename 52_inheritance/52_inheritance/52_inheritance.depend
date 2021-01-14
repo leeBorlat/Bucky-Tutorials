@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1604636000 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\52_inheritance\52_inheritance\daughter.cpp
+	"Daughter.h"
+	<iostream>
+
+1604637857 d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\52_inheritance\52_inheritance\daughter.h
+	"Mother.h"
+
+1604636253 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\52_inheritance\52_inheritance\mother.cpp
+	"Mother.h"
+	"Daughter.h"
+	<iostream>
+
+1604637857 d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\52_inheritance\52_inheritance\mother.h
+	"Daughter.h"
+
+1604637798 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\52_inheritance\52_inheritance\main.cpp
+	"Mother.h"
+	"Daughter.h"
+	<iostream>
+

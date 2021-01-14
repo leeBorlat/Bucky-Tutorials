@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1604552787 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\49_this\main.cpp
+	"Hannah.h"
+	<iostream>
+
+1604552809 d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\49_this\hannah.h
+
+1604552842 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\49_this\hannah.cpp
+	"Hannah.h"
+	<iostream>
+

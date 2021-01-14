@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="43_deconstructors/43_deconstructors.cbp" />
+		<Project filename="44_const_objects/44_const_objects.cbp" />
+		<Project filename="45_member_initializors/45_member_initializors.cbp" />
+		<Project filename="46_47_composition/46_47_composition.cbp" />
+		<Project filename="48_friends/48_friends.cbp" />
+		<Project filename="49_this/49_this.cbp" />
+		<Project filename="50_51_operator_overloading/50_51_operator_overloading.cbp" />
+		<Project filename="52_inheritance/52_inheritance/52_inheritance.cbp" />
+		<Project filename="53_protected_members/53_protected_members/53_protected_members.cbp" />
+		<Project filename="55_polymorphism/55_polymorphism/55_polymorphism.cbp" />
+		<Project filename="58_function_templates/58_function_templates.cbp" />
+		<Project filename="59_function_templates_with_multiple_parameters/59_function_templates_with_multiple_parameters.cbp" />
+		<Project filename="60_class_templates/60_class_templates.cbp" />
+		<Project filename="61_template_specializations/61_template_specializations.cbp" />
+		<Project filename="62_Exceptions/62_Exceptions.cbp" />
+		<Project filename="63_more_exceptions_examples/63_more_exceptions_examples.cbp" />
+		<Project filename="64_working_with_files/64_working_with_files.cbp" />
+		<Project filename="65_tips_for_file_handling/65_tips_for_file_handling.cbp" />
+		<Project filename="66_writing_custom_file_structures/66_writing_custom_file_structures.cbp" />
+		<Project filename="67_reading_custom_file_structures/67_reading_custom_file_structures.cbp" />
+		<Project filename="68_cool_program_working_with_files/68_cool_program_working_with_files.cbp" />
+		<Project filename="71_string_class_and_string_functions/71_string_class_and_string_functions.cbp" />
+		<Project filename="72_string_substrings_swappings_and_finding/72_string_substrings_swappings_and_finding.cbp" />
+		<Project filename="73_final/73_final.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1604638587 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\53_protected_members\53_protected_members\main.cpp
+	"Father.h"
+	"Son.h"
+	<iostream>
+
+1604638397 d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\53_protected_members\53_protected_members\father.h
+
+1604638700 d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\53_protected_members\53_protected_members\son.h
+
+1604638414 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\53_protected_members\53_protected_members\father.cpp
+	"Father.h"
+	"Son.h"
+	<iostream>
+
+1604638733 source:d:\0_ryan's files\1. plm\1. coding\cb coding\c++ codings\buckytutorials\53_protected_members\53_protected_members\son.cpp
+	"Father.h"
+	"Son.h"
+	<iostream>
+
